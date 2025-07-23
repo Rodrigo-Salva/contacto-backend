@@ -81,13 +81,13 @@ El servidor estará disponible en [http://localhost:3000](http://localhost:3000)
 
 ```
 .
-├── app.js
-├── package.json
-├── .env
-├── models/
-│   └── Contacto.js
-└── routes/
-    └── contactos.js
+├── 📄 app.js
+├── 📄 package.json
+├── 📄 .env
+├── 📁 models/
+│   └── 📄 Contacto.js
+└── 📁 routes/
+    └── 📄 contactos.js
 ```
 
 - [`app.js`](app.js): Configuración principal y arranque del servidor.
